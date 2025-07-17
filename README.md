@@ -1,0 +1,1 @@
+# GenAI-tool-for-automating-personalized-B2B-cold-emails
